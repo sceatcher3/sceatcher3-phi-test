@@ -1,4 +1,4 @@
-# [Demo](https://sceatcher3/sceatcher3-phi-test/index "Phigros模拟器")
+# [Demo](https://sceatcher3.github.io/sceatcher3-phi-test/index "Phigros模拟器")
 
 ## 简介
 
